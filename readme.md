@@ -1,0 +1,1 @@
+Se você costuma dividir o total de paginas de um livro por 7 dias, para ter uma base de quantos paginas ler e terminar ele em 7 dias, mas no kinlde não tem como fazer essa opção. O app tem essa ideia, de fazer o calculo de quantas posições(Páginas no kindle) ler por dia.
